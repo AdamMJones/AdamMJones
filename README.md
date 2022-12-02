@@ -1,16 +1,14 @@
-### Hi there 👋
+### 
 
-<!--
-**AdamMJones/AdamMJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software/Technical Architect working at [Capgemini](https://www.capgemini.com/gb-en/) on the HMRC account
 
-Here are some ideas to get you started:
+[Certified AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ISTQB Certified Tester](https://www.istqb.org/certifications/certified-tester-foundation-level)
+
+<div align="center" style="display: grid;">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,scala,bash"/>
+  <div/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,maven,docker"/>
+  <div/>
+</div>
