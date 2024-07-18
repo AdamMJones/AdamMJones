@@ -19,7 +19,7 @@ Software/Technical Architect working at [Capgemini](https://www.capgemini.com/gb
   <div/>
   <img src="https://skillicons.dev/icons?i=bash,git,linux,md,mysql,powershell,regex"/>
   <div/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,maven,docker"/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,maven,docker,kubernetes"/>
   <div/>
   <img src="https://skillicons.dev/icons?i=idea,vscode"/>
 </div>
