@@ -17,7 +17,6 @@ Technical Lead working at [Capgemini](https://www.capgemini.com/gb-en/) on the H
 [<img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width=200>](https://www.credly.com/badges/d255c4ad-fb3f-4dcf-8436-763948c01d9c/public_url)
 [<img src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo.png" width=200>](https://www.credly.com/badges/845407f0-9e3d-45d8-85b4-4293a611ad4c/public_url)
 [<img src="https://learn.microsoft.com/media/learn/certification/badges/github-copilot.svg?branch=main" width=200>](https://learn.microsoft.com/en-gb/users/adammjones/credentials/certification/github-copilot?source=docs&tab=credentials-tab)
-
 [<img src="https://images.credly.com/size/680x680/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width=200>](https://www.credly.com/badges/68b8cdba-48dc-43cd-a944-9d92106fb60a/public_url)
 [<img src="https://images.credly.com/size/680x680/images/f28a92f1-2837-4770-add0-70008be15e89/image.png" width=200>](https://www.credly.com/badges/8bfd9578-828c-4c01-9951-b30fa821ff29/public_url)
 [<img src="https://badges.greensoftware.foundation/assets/card-badge.svg" width=200>](https://badges.greensoftware.foundation/awards/fd5dd834-35a1-4489-a0f0-dc9bfbd1be51)
